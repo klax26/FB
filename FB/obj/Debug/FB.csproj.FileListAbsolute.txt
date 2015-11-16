@@ -1,0 +1,4 @@
+C:\Users\alexj\Desktop\FB\FBProject\FB3\FB\FB\bin\FB.dll
+C:\Users\alexj\Desktop\FB\FBProject\FB3\FB\FB\bin\FB.pdb
+C:\Users\alexj\Desktop\FB\FBProject\FB3\FB\FB\obj\Debug\FB.dll
+C:\Users\alexj\Desktop\FB\FBProject\FB3\FB\FB\obj\Debug\FB.pdb
